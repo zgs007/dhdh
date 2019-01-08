@@ -1,4 +1,9 @@
 dksdfdjfkfjffjfjffjf
 djfkdjfkdk
 fdjkfjdkdjf
-jfkdfjdkf
+jfkdfjdk
+df<Plug>(neosnippet_expand)
+ddff
+ddf
+
+fdfdf
